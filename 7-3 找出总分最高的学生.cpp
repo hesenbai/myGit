@@ -23,4 +23,5 @@
 	   }
    
    printf("%s %s %d",max.name,max.num,max.sum);
+	 printf("he");
  }
